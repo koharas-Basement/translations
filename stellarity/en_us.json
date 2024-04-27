@@ -7,6 +7,7 @@
 	"stellarity.messages.cmd.reset_config_to_default": "All configs have been reset to default",
 	"stellarity.messages.cmd.kill_ender_dragon": "Killed the Ender Dragon",
 	"stellarity.messages.cmd.generate_end_island_features": "Manually generated End Island features",
+	"stellarity.messages.cmd.generate_end_island_features.fail": "Everything is already generated!",
 	"stellarity.messages.cmd.fix_markers": "Fixed all loaded Stellarity markers",
 
 	"stellarity.void_fishing.warning.too_deep": "Something tells you you should fish higher...",
@@ -23,7 +24,14 @@
 	"stellarity.mobs.pixie": "Pixie",
 	"stellarity.mobs.empress": "Empress of Light",
 	
-	"stellarity.eol.despawn": "%s flees as nobody is around...",
+	"stellarity.boss.dragon.spawn": "%s has awoken!",
+	"stellarity.boss.dragon.death": "%s has been defeated!",
+	"stellarity.boss.eol.spawn": "%s has awoken!",
+	"stellarity.boss.eol.death": "%s has been defeated!",
+	"stellarity.boss.eol.despawn": "%s disappears back into the light",
+	"stellarity.boss.primordial_phantom.spawn": "%s has awoken!",
+	"stellarity.boss.primordial_phantom.death": "%s has been defeated!",
+	"stellarity.boss.primordial_phantom.despawn": "%s flies off into the unknown",
 
 	"stellarity.config.enabled": "Enabled",
 	"stellarity.config.disabled": "Disabled",
@@ -49,9 +57,11 @@
 	"stellarity.config.enable_dragon_screenshake.title": "Enable Dragon Screenshake",
 	"stellarity.config.enable_dragon_screenshake.description": "Enables a bootleg screenshake effect during the Dragon's spawn animation. Can be nauseating to some, so feel free to disable it. It isn't the best anyway.",
 	"stellarity.config.enable_creative_shock.title": "Enable End City Creative Shock",
-	"stellarity.config.enable_creative_shock.description": "Makes Crystals in End Cities apply Creative Shock, which prevents placing and destroying blocks until all of them are destroyed.",
+	"stellarity.config.enable_creative_shock.description": "Makes Crystals in End Cities apply Creative Shock, which prevents placing and destroying blocks until all of them are destroyed. Keep in mind that End Cities are balanced around this option being enabled!",
 	"stellarity.config.nerf_elytra.title": "Nerf Elytra",
 	"stellarity.config.nerf_elytra.description": "Nerfs the Elytra by making them take extra damage from boosting.",
+	"stellarity.config.boss_status_messages.title": "Boss Status Messages",
+	"stellarity.config.boss_status_messages.description": "Sends global messages when a Stellarity boss is summoned, killed or despawns.",
 
 	"stellarity.explorer_map.end_city": "End City Explorer Map",
 	"stellarity.explorer_map.end_village": "End Village Explorer Map",
@@ -115,6 +125,23 @@
 	"stellarity.items.fish.crystal_heartfish.description.1": "Consume to permanently increase",
 	"stellarity.items.fish.crystal_heartfish.description.2": "your maximum health by 1 heart",
 	"stellarity.items.fish.crystal_heartfish.description.3": "Allows for up to 10 extra hearts",
+
+	"stellarity.items.food.candied_chorus_fruit": "Candied Chorus Fruit",
+	"stellarity.items.food.chorus_juice": "Chorus Juice",
+	"stellarity.items.food.chorus_pie": "Chorus Pie",
+	"stellarity.items.food.chorus_stew": "Chorus Stew",
+	"stellarity.items.food.enderman_flesh": "Enderman Flesh",
+	"stellarity.items.food.fried_chorus_fruit": "Fried Chorus Fruit",
+	"stellarity.items.food.frozen_carpaccio": "Frozen Carpaccio",
+	"stellarity.items.food.golden_chorus_fruit": "Golden Chorus Fruit",
+	"stellarity.items.food.grilled_enderman_flesh": "Grilled Enderman Flesh",
+	"stellarity.items.food.pho": "Pho",
+	"stellarity.items.food.prismatic_sushi": "Prismatic Sushi",
+	"stellarity.items.food.shepherds_pie": "Shepherd's Pie",
+	"stellarity.items.food.shepherds_pie.flavor_text": "'Feast fit for a king!'",
+	"stellarity.items.food.shulker_body": "Shulker Body",
+	"stellarity.items.food.shulker_body.flavor_text": "'They are kinda like clams'",
+	"stellarity.items.food.sushi": "Sushi",
 
 	"stellarity.items.materials.chorus_plating": "Chorus Plating",
 	"stellarity.items.materials.hallowed_ingot": "Hallowed Ingot",
@@ -252,10 +279,6 @@
 	"stellarity.items.trinkets.copper_elektra_shield.description.2": "Can charge up to 3 dashes every 7 seconds",
 	"stellarity.items.trinkets.copper_elektra_shield.description.3": "Third dash takes longer to recharge",
 
-	"stellarity.items.trinkets.casket_of_stars": "Casket of Stars",
-	"stellarity.items.trinkets.casket_of_stars.description.1": "Stellar Striker collects stars faster,",
-	"stellarity.items.trinkets.casket_of_stars.description.2": "plus increases their velocity and armor penetration",
-
 	"stellarity.items.weapons.ancient_wooden_sword": "Ancient Wooden Sword",
 	"stellarity.items.weapons.ancient_wooden_sword.flavor_text": "'reject Trails&Tales, embrace Indev'",
 	
@@ -356,10 +379,13 @@
 	"stellarity.items.weapons.slayer_crossbow.description.1": "Shoots highly damaging energy bolts",
 	"stellarity.items.weapons.slayer_crossbow.description.2": "with infinite pierce, but limited range",
 
+	"stellarity.items.weapons.stellar_striker": "Stellar Striker",
+	"stellarity.items.weapons.stellar_striker.description.1": "Attack or kill mobs to collect stars",
+	"stellarity.items.weapons.stellar_striker.description.2": "Sneak and attack to send the stars flying",
+	"stellarity.items.weapons.stellar_striker.description.3": "all at once to deal high burst damage",
+
 	"stellarity.items.fisher_of_voids": "Fisher of Voids",
 	"stellarity.items.fisher_of_voids.description": "Void Fishing is slightly quicker",
-	
-	"stellarity.items.golden_chorus_fruit": "Golden Chorus Fruit",
 	
 	"stellarity.items.pandoras_barrel": "Pandora's Barrel",
 	"stellarity.items.pandoras_barrel.description": "You never know what's inside!",
