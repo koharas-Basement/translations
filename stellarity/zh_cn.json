@@ -502,5 +502,7 @@
     "stellarity.boss.eol.despawn": "%s disappears back into the light",
     "stellarity.items.spellbooks.natures_wrath.description.3": "Sneak and use to summon a pack of Spirit Wolves",
     "stellarity.config.eol_health.description": "Changes maximum health of the Empress of Light. Max: 1024",
-    "stellarity.items.armors.set_bonus": "FULL SET BONUS:"
+    "stellarity.items.armors.set_bonus": "FULL SET BONUS:",
+    "stellarity.items.phantom_item_frame": "Phantom Item Frame",
+    "stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside"
 }
