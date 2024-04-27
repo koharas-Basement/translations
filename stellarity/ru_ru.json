@@ -502,5 +502,7 @@
     "stellarity.advancements.balanced_diet_2": "Feast of The Otherworld",
     "stellarity.advancements.balanced_diet_2.description": "Eat every food item added by Stellarity, good or bad.",
     "stellarity.advancements.dilute_breath.": "Little Alchemy",
-    "stellarity.advancements.dilute_breath.description": "Throw Dragon's Breath into a Water Cauldron to dilute it. You can then toss in different items to do a little bit of brewing!"
+    "stellarity.advancements.dilute_breath.description": "Throw Dragon's Breath into a Water Cauldron to dilute it. You can then toss in different items to do a little bit of brewing!",
+    "stellarity.items.phantom_item_frame": "Phantom Item Frame",
+    "stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside"
 }
