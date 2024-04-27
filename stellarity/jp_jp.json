@@ -502,5 +502,7 @@
     "biome.stellarity.frosted_hills": "Frosted Hills",
     "biome.stellarity.prismarine_forest": "Prismarine Forest",
     "biome.stellarity.sculk_growth": "Sculk Growth",
-    "biome.stellarity.the_hallow": "The Hallow"
+    "biome.stellarity.the_hallow": "The Hallow",
+    "stellarity.items.phantom_item_frame": "Phantom Item Frame",
+    "stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside"
 }
