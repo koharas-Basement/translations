@@ -502,5 +502,7 @@
     "stellarity.items.weapons.stellar_striker": "Stellar Striker",
     "stellarity.items.weapons.stellar_striker.description.1": "Attack or kill mobs to collect stars",
     "stellarity.items.weapons.stellar_striker.description.2": "Sneak and attack to send the stars flying",
-    "stellarity.items.weapons.stellar_striker.description.3": "all at once to deal high burst damage"
+    "stellarity.items.weapons.stellar_striker.description.3": "all at once to deal high burst damage",
+    "stellarity.items.phantom_item_frame": "Phantom Item Frame",
+    "stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside"
 }
