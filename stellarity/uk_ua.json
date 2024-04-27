@@ -15,7 +15,7 @@
     "stellarity.mobs.gloop": "Глюк",
     "stellarity.mobs.pixie": "Піксі",
     "stellarity.mobs.empress": "Імператриця Світла",
-    "stellarity.config.enabled": "Enabled",
+    "stellarity.config.enabled": "Увімкнено",
     "stellarity.config.disabled": "Disabled",
     "stellarity.config.click_to_edit": "Click to edit",
     "stellarity.config.default": "Default: %s",
