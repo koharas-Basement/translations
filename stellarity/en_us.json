@@ -97,8 +97,8 @@
 	"stellarity.items.armors.shulker_armor.leggings": "Shulker Leggings",
 	"stellarity.items.armors.shulker_armor.boots": "Shulker Boots",
 	"stellarity.items.armors.shulker_armor.set_bonus.1": "Shulker Bullets will hunt down your attackers",
-	"stellarity.items.armors.shulker_armor.set_bonus.2": "Incoming damage reduced by 20%",
-	"stellarity.items.armors.shulker_armor.set_bonus.3": "Immunity to Levitation and Wither",
+	"stellarity.items.armors.shulker_armor.set_bonus.2": "Take less damage when swarmed",
+	"stellarity.items.armors.shulker_armor.set_bonus.3": "Immunity to Levitation and Weakness",
 
 	"stellarity.items.crates.place_down": "Place down and open!",
 
@@ -392,6 +392,9 @@
 	"stellarity.items.pandoras_barrel.flavor_text": "'...unless you check the wiki'",
 	
 	"stellarity.items.prismatic_pearl": "Prismatic Pearl",
+
+	"stellarity.items.phantom_item_frame": "Phantom Item Frame",
+	"stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside",
 	
 	"stellarity.items.altar_of_light": "Altar of The Sacred",
 	"stellarity.items.altar_of_light.description.1": "Can be placed anywhere at any time",
