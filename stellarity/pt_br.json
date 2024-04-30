@@ -496,5 +496,15 @@
     "stellarity.advancements.dilute_breath.": "Alquimiazinha",
     "stellarity.advancements.dilute_breath.description": "Largue a bado do dragão em um caldeirão de água para diluí-la. Então você pode largar diferentes itens para fazer um pouco de fermentação!",
     "stellarity.items.phantom_item_frame": "Moldura de phantom",
-    "stellarity.items.phantom_item_frame.description": "Fica invisível quando um item é colocado"
+    "stellarity.items.phantom_item_frame.description": "Fica invisível quando um item é colocado",
+    "stellarity.items.potions.amarena": "Amarene",
+    "stellarity.items.potions.entanglement_potion": "Entanglement Potion",
+    "stellarity.items.potions.frost_cloud_potion": "Frost Cloud Potion",
+    "stellarity.items.potions.hellfire_treader_potion": "Hellfire Treader Potion",
+    "stellarity.items.potions.poseidons_nectar": "Poseidon's Nectar",
+    "stellarity.items.potions.regeneraga": "Regeneraga",
+    "stellarity.items.potions.spelunker_potion": "Spelunker Potion",
+    "stellarity.items.tools.hematic_pickaxe": "Hematic Pickaxe",
+    "stellarity.items.tools.hematic_pickaxe.description.1": "Can dig out extra loot",
+    "stellarity.items.tools.hematic_pickaxe.description.2": "from various stone blocks"
 }
