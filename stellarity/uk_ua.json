@@ -496,5 +496,15 @@
     "stellarity.items.weapons.stellar_striker.description.2": "Sneak and attack to send the stars flying",
     "stellarity.items.weapons.stellar_striker.description.3": "all at once to deal high burst damage",
     "stellarity.items.phantom_item_frame": "Phantom Item Frame",
-    "stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside"
+    "stellarity.items.phantom_item_frame.description": "Turns invisible when an item is put inside",
+    "stellarity.items.tools.hematic_pickaxe": "Hematic Pickaxe",
+    "stellarity.items.potions.amarena": "Amarene",
+    "stellarity.items.potions.entanglement_potion": "Entanglement Potion",
+    "stellarity.items.potions.frost_cloud_potion": "Frost Cloud Potion",
+    "stellarity.items.potions.hellfire_treader_potion": "Hellfire Treader Potion",
+    "stellarity.items.potions.poseidons_nectar": "Poseidon's Nectar",
+    "stellarity.items.potions.regeneraga": "Regeneraga",
+    "stellarity.items.potions.spelunker_potion": "Spelunker Potion",
+    "stellarity.items.tools.hematic_pickaxe.description.1": "Can dig out extra loot",
+    "stellarity.items.tools.hematic_pickaxe.description.2": "from various stone blocks"
 }
