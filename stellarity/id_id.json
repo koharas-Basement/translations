@@ -496,5 +496,15 @@
     "stellarity.boss.eol.despawn": "%s menghilang kembali ke dalam cahaya",
     "stellarity.items.spellbooks.natures_wrath.description.3": "Sneak and use to summon a pack of Spirit Wolves",
     "stellarity.config.eol_health.description": "Mengganti health maximum Ratu Cahaya. Max: 1024",
-    "stellarity.items.armors.set_bonus": "BONUS SET LENGKAP:"
+    "stellarity.items.armors.set_bonus": "BONUS SET LENGKAP:",
+    "stellarity.items.tools.hematic_pickaxe": "Hematic Pickaxe",
+    "stellarity.items.tools.hematic_pickaxe.description.1": "Can dig out extra loot",
+    "stellarity.items.tools.hematic_pickaxe.description.2": "from various stone blocks",
+    "stellarity.items.potions.amarena": "Amarene",
+    "stellarity.items.potions.entanglement_potion": "Entanglement Potion",
+    "stellarity.items.potions.frost_cloud_potion": "Frost Cloud Potion",
+    "stellarity.items.potions.hellfire_treader_potion": "Hellfire Treader Potion",
+    "stellarity.items.potions.poseidons_nectar": "Poseidon's Nectar",
+    "stellarity.items.potions.regeneraga": "Regeneraga",
+    "stellarity.items.potions.spelunker_potion": "Spelunker Potion"
 }
