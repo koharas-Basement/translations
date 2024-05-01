@@ -135,8 +135,8 @@
     "stellarity.items.spellbooks.cooldown_long": "Czas odnowienia: %s minut",
     "stellarity.items.spellbooks.notification": "%s jest gotowy(a) do ponownego użycia",
     "stellarity.items.spellbooks.conveyance": "Księga przeniesienia",
-    "stellarity.items.spellbooks.conveyance.description.1": "Rzuca powoli iskrę, która",
-    "stellarity.items.spellbooks.conveyance.description.2": "przeteleportuje cię do pierwszego bloku w jaki trafi",
+    "stellarity.items.spellbooks.conveyance.description.1": "Rzuca powolną iskrę, która",
+    "stellarity.items.spellbooks.conveyance.description.2": "przeteleportuje cię do pierwszego bloku w który trafi",
     "stellarity.items.spellbooks.conveyance.description.3": "Poruszaj głową aby ją pokierować",
     "stellarity.items.spellbooks.light": "Księga światła",
     "stellarity.items.spellbooks.light.description.1": "Kliknij prawy przycisk myszy, aby przywołać przyjazną aurę, która",
@@ -156,7 +156,7 @@
     "stellarity.items.spellbooks.jinx.description.1": "Tworzy rosnącą chmurę, która",
     "stellarity.items.spellbooks.jinx.description.2": "tymczasowo osłabia zbroję temu",
     "stellarity.items.spellbooks.jinx.description.3": "co się w nią złapie",
-    "stellarity.items.spellbooks.return": "Tom powrotu",
+    "stellarity.items.spellbooks.return": "Księga Powrotu",
     "stellarity.items.spellbooks.return.description": "Teleportuje cię do twojego punktu odrodzenia",
     "stellarity.items.tools.shulker.axe": "Shulkerowa siekiera",
     "stellarity.items.tools.shulker.hoe": "Shulkerowa motyka",
@@ -193,7 +193,7 @@
     "stellarity.items.trinkets.copper_elektra_shield.description.1": "Skradaj się aby wykonać elektryzujący przeskok!",
     "stellarity.items.trinkets.copper_elektra_shield.description.2": "Może naładować max 3 przeskoki, 1 na 7 sekund",
     "stellarity.items.trinkets.copper_elektra_shield.description.3": "Trzeci przeskok ładuje się dłużej niż pozostałe",
-    "stellarity.items.weapons.ancient_wooden_sword": "Stary drewniany miecz",
+    "stellarity.items.weapons.ancient_wooden_sword": "Starożytny drewniany miecz",
     "stellarity.items.weapons.ancient_wooden_sword.flavor_text": "'wpółczesne problemy wymagają średniowiecznych rozwiązań'",
     "stellarity.items.weapons.clockwork_crossbow": "Mechaniczna kusza",
     "stellarity.items.weapons.clockwork_crossbow.description.1": "Strzela bardzo szybko,",
@@ -506,5 +506,5 @@
     "stellarity.items.potions.spelunker_potion": "Mikstura grotołaza",
     "stellarity.items.tools.hematic_pickaxe": "Krwawy kilof",
     "stellarity.items.tools.hematic_pickaxe.description.1": "Może znaleźć dodatkowe przedmioty",
-    "stellarity.items.tools.hematic_pickaxe.description.2": "podczas kopania"
+    "stellarity.items.tools.hematic_pickaxe.description.2": "podczas kopania róznego kamienia"
 }
