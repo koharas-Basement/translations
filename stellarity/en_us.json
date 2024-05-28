@@ -10,7 +10,7 @@
 	"stellarity.messages.cmd.generate_end_island_features.fail": "Everything is already generated!",
 	"stellarity.messages.cmd.fix_markers": "Fixed all loaded Stellarity markers",
 
-	"stellarity.void_fishing.warning.too_deep": "Something tells you you should fish higher...",
+	"stellarity.void_fishing.warning.too_deep": "Something tells you that you should fish higher...",
 	"stellarity.void_fishing.warning.dragons_den": "No fish dares to enter this area...",
 
 	"stellarity.aota.warning": "Its magic is sealed behind a powerful beast",
@@ -75,7 +75,8 @@
 	"stellarity.items.empty_enchanted_book.description.4": "It wants to be thrown on top",
 	"stellarity.items.empty_enchanted_book.description.5": "of what's inside of it",
 
-	"stellarity.items.armors.set_bonus": "FULL SET BONUS:",
+	"stellarity.items.armors.set_bonus": "ғᴜʟʟ sᴇᴛ ʙᴏɴᴜs:",
+	"stellarity.items.armors.piece_bonus": "ᴘɪᴇᴄᴇ ʙᴏɴᴜs:",
 
 	"stellarity.items.armors.chorus_champion_armor.helmet": "Chorus Champion Helmet",
 	"stellarity.items.armors.chorus_champion_armor.chestplate": "Chorus Champion Chestplate",
@@ -98,7 +99,18 @@
 	"stellarity.items.armors.shulker_armor.boots": "Shulker Boots",
 	"stellarity.items.armors.shulker_armor.set_bonus.1": "Shulker Bullets will hunt down your attackers",
 	"stellarity.items.armors.shulker_armor.set_bonus.2": "Take less damage when swarmed",
-	"stellarity.items.armors.shulker_armor.set_bonus.3": "Immunity to Levitation and Weakness",
+	"stellarity.items.armors.shulker_armor.piece_bonus.chestplate": "Immunity to Weakness",
+	"stellarity.items.armors.shulker_armor.piece_bonus.leggings": "Immunity to Levitation",
+
+	"stellarity.items.armors.floral_armor.helmet": "Floral Hood",
+	"stellarity.items.armors.floral_armor.chestplate": "Floral Chestplate",
+	"stellarity.items.armors.floral_armor.leggings": "Floral Leggings",
+	"stellarity.items.armors.floral_armor.boots": "Floral Boots",
+	"stellarity.items.armors.floral_armor.set_bonus.1": "Shooting an enemy will bloom a flower over",
+	"stellarity.items.armors.floral_armor.set_bonus.2": "their head, which will explode shortly after",
+	"stellarity.items.armors.floral_armor.set_bonus.3": "Sneak while in tall plants to blend in with them",
+	"stellarity.items.armors.floral_armor.piece_bonus.chestplate": "+25% Arrow Velocity",
+	"stellarity.items.armors.floral_armor.piece_bonus.leggings": "+10% Arrow Damage",
 
 	"stellarity.items.crates.place_down": "Place down and open!",
 
@@ -301,12 +313,7 @@
 	"stellarity.items.weapons.prismatic_punch.description.1": "Shoots exploding Prismatic Blasts",
 	"stellarity.items.weapons.prismatic_punch.description.2": "which explode multiple times",
 	"stellarity.items.weapons.prismatic_punch.description.3": "and set mobs on Prismatic Inferno",
-	
-	"stellarity.items.weapons.sabrewing": "Sabrewing",
-	"stellarity.items.weapons.sabrewing.description.1": "Supercharge your shots",
-	"stellarity.items.weapons.sabrewing.description.2": "for increased damage and velocity",
-	"stellarity.items.weapons.sabrewing.flavor_text": "'It might be broken'",
-	
+
 	"stellarity.items.weapons.sharanga": "Sharanga",
 	"stellarity.items.weapons.sharanga.description.1": "Spectral Arrows travel in a straight",
 	"stellarity.items.weapons.sharanga.description.2": "line and deal increased damage",
@@ -329,16 +336,17 @@
 	"stellarity.items.weapons.frigid_harvester": "Frigid Harvester",
 	"stellarity.items.weapons.frigid_harvester.description.1": "Imbues itself with souls of slain mobs,",
 	"stellarity.items.weapons.frigid_harvester.description.2": "permanently increasing its damage",
-	"stellarity.items.weapons.frigid_harvester.description.3": "and unlocking passive abilities",
-	"stellarity.items.weapons.frigid_harvester.description.4": "The more souls it absorbs, the less damage it gets",
-	"stellarity.items.weapons.frigid_harvester.description.ultra": "It refuses to absorb any but a few more souls",
+	"stellarity.items.weapons.frigid_harvester.description.3": "Killing some mobs after reaching certain damage",
+	"stellarity.items.weapons.frigid_harvester.description.4": "tresholds unlocks passive abilities",
+	"stellarity.items.weapons.frigid_harvester.description.5": "The more souls it absorbs, the less damage it gets",
+	"stellarity.items.weapons.frigid_harvester.description.ultra": "It refuses to absorb any, but a few more souls",
 	"stellarity.items.weapons.frigid_harvester.ability.tooltip": "%1$s: %2$s",
 	"stellarity.items.weapons.frigid_harvester.ability.known": "KNOWN",
 	"stellarity.items.weapons.frigid_harvester.ability.tellraw.1": "--------< %1$s - %2$s >--------",
 	"stellarity.items.weapons.frigid_harvester.ability.tellraw.2": "ABILITY UNLOCK",
 	"stellarity.items.weapons.frigid_harvester.ability.frost_barrier": "Frost Barrier",
 	"stellarity.items.weapons.frigid_harvester.ability.frost_barrier.description": "Gain temporar damage reduction after killing a mob",
-	"stellarity.items.weapons.frigid_harvester.ability.arctic_wind": "Artctic Wind",
+	"stellarity.items.weapons.frigid_harvester.ability.arctic_wind": "Arctic Wind",
 	"stellarity.items.weapons.frigid_harvester.ability.arctic_wind.description": "Super cold aura slows down all nearby mobs",
 	"stellarity.items.weapons.frigid_harvester.ability.cryonics": "Cryonics",
 	"stellarity.items.weapons.frigid_harvester.ability.cryonics.description": "Using a Totem of Undying encases you in protective ice, making you invulnerable and providing extreme healing",
@@ -348,6 +356,10 @@
 	"stellarity.items.weapons.frigid_harvester.ability.frostburn.description": "Extreme cold burns enemies for extra damage",
 	"stellarity.items.weapons.frigid_harvester.ability.anima_conduit": "Anima Conduit",
 	"stellarity.items.weapons.frigid_harvester.ability.anima_conduit.description": "Souls are crushed down and converted into a healing force",
+	"stellarity.items.weapons.frigid_harvester.ability.embrittlement": "Embrittlement",
+	"stellarity.items.weapons.frigid_harvester.ability.embrittlement.description": "Hit enemies become brittle and take extra frostbite damage from all sources",
+	"stellarity.items.weapons.frigid_harvester.ability.echo": "Echo",
+	"stellarity.items.weapons.frigid_harvester.ability.echo.description": "Attacks will echo, dealing extra unmitigated damage after a short time.",
 	"stellarity.items.weapons.frigid_harvester.ability.hint": "Your sword shakes while absorbing this soul...",
 
 	"stellarity.items.weapons.prismember": "Prismember",
@@ -402,8 +414,8 @@
 	"stellarity.items.altar_of_light": "Altar of The Sacred",
 	"stellarity.items.altar_of_light.description.1": "Can be placed anywhere at any time",
 	"stellarity.items.altar_of_light.description.2": "Sacrifice minerals for long-lasting buffs",
-	"stellarity.items.altar_of_light.description.3": "Sacrifice Pixie Dust to draw",
-	"stellarity.items.altar_of_light.description.4": "the attention of the Fae Goddess",
+	"stellarity.items.altar_of_light.description.3": "Sacrificing %s will be",
+	"stellarity.items.altar_of_light.description.4": "considered a blasphemy and shouldn't be done",
 	"stellarity.items.altar_of_light.flavor_text": "'Not to be confused with Altar of The Accursed'",
 
 	"stellarity.items.cursed_tome": "Cursed Enchiridion",
@@ -513,11 +525,11 @@
 	"stellarity.advancements.enter_end.description": "ᴏʀ ᴛʜᴇ ʙᴇɢɪɴɴɪɴɢ?",
 	"stellarity.advancements.follow_ender_eye.extra": ". Something is definitely hidden there...",
 	"stellarity.advancements.max_out_aery_sword": "Snow Grave",
-	"stellarity.advancements.max_out_aery_sword.description": "Absorb enough souls to upgrade a Frigid Harvester to 14 damage",
+	"stellarity.advancements.max_out_aery_sword.description": "Absorb enough souls to upgrade a Frigid Harvester to 13 damage in total",
 	"stellarity.advancements.truly_max_out_aery_sword": "20 Below Zero",
 	"stellarity.advancements.truly_max_out_aery_sword.description": "Even the grim power of this ice sword has its limits...",
 	"stellarity.advancements.transmute_item": "Hallowed Alchemy",
-	"stellarity.advancements.transmute_item.description": "Transmute an item into something different by throwing it into the water in The Hallow",
+	"stellarity.advancements.transmute_item.description": "Transmute any item into something different by throwing it into the water in The Hallow",
 	"stellarity.advancements.kill_large_phantom": "Worsening Nightmares",
 	"stellarity.advancements.kill_large_phantom.description": "Kill a Phantom that is bigger than usually",
 	"stellarity.advancements.headhunter": "Headhunter",
@@ -535,8 +547,9 @@
 	"stellarity.advancements.balanced_diet_2.description": "Eat every food item added by Stellarity, good or bad.",
 	"stellarity.advancements.dilute_breath.": "Little Alchemy",
 	"stellarity.advancements.dilute_breath.description": "Throw Dragon's Breath into a Water Cauldron to dilute it. You can then toss in different items to do a little bit of brewing!",
+	"stellarity.advancements.electrified": "Electrified!",
+	"stellarity.advancements.electrified.description": "Dash through 5 different mobs with a single Copper Elektra Shield dash",
 
-	"stellarity.death_messages.sharanga_explosion": "%1$s was torn apart by %2$s's Spectral Boom Boom",
 	"stellarity.death_messages.carcanet.1": "%1$s was struck too hard by %2$s's star",
 	"stellarity.death_messages.carcanet.2": "%1$s received help with meeting the sky from %2$s",
 	"stellarity.death_messages.spirit_dagger.1": "%1$s had their spirit consumed by %2$s",
@@ -583,6 +596,5 @@
 	"biome.stellarity.dragons_den": "Dragon's Den",
 	"biome.stellarity.frosted_hills": "Frosted Hills",
 	"biome.stellarity.prismarine_forest": "Prismarine Forest",
-	"biome.stellarity.sculk_growth": "Sculk Growth",
 	"biome.stellarity.the_hallow": "The Hallow"
 }
