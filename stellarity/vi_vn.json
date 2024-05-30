@@ -171,7 +171,7 @@
     "stellarity.advancements.third_times_the_charm.description": "Triệu hồi rồng Ender lần thứ ba",
     "stellarity.items.trinkets.duskberry.description.1": "Tăng cường tốc độ, tầm nhìn",
     "stellarity.boss.eol.death": "%s đã bị hạ gục!",
-    "stellarity.items.armors.chorus_champion_armor.chestplate": "Áo Chorus quán quân",
+    "stellarity.items.armors.chorus_champion_armor.chestplate": "Áo Chorus Quán Quân",
     "stellarity.config.boss_status_messages.title": "Thông báo tình trạng Boss",
     "stellarity.advancements.cloud_save.description": "Chế tạo một chiếc rương Ender",
     "stellarity.items.spellbooks.cooldown_long": "Hồi chiêu: %s phút",
@@ -504,7 +504,7 @@
     "stellarity.items.armors.floral_armor.piece_bonus.leggings": "+10% Sát thương mũi tên",
     "stellarity.items.weapons.frigid_harvester.ability.echo": "Vang vọng",
     "stellarity.items.weapons.frigid_harvester.ability.echo.description": "Đòn tấn công sẽ dội lại, gây thêm một lượng sát thương chuẩn sau một khoảng thời gian ngắn.",
-    "stellarity.advancements.electrified.description": "Dash through 5 different mobs with a single Copper Elektra Shield dash",
+    "stellarity.advancements.electrified.description": "Lướt quá 5 sinh vật khác nhau bằng khiên Elektra",
     "stellarity.items.armors.piece_bonus": "KHI ĐƯỢC MẶC:",
     "stellarity.items.armors.shulker_armor.piece_bonus.chestplate": "Miễn nhiễm với Suy yếu",
     "stellarity.items.armors.shulker_armor.piece_bonus.leggings": "Miễn nhiễm với Lơ lửng",
@@ -518,5 +518,5 @@
     "stellarity.items.weapons.frigid_harvester.description.5": "Càng hấp thụ nhiều linh hồn, lượng sát thương tăng thêm càng giảm",
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement": "Hoá giòn",
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement.description": "Kẻ địch trúng chiêu trở nên dễ vỡ và nhận thêm sát thương bỏng lạnh từ mọi nguồn",
-    "stellarity.advancements.electrified": "Electrified!"
+    "stellarity.advancements.electrified": "Điện hoá!"
 }
