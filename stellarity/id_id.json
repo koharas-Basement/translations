@@ -518,5 +518,6 @@
     "stellarity.items.armors.floral_armor.piece_bonus.leggings": "+10% Damage Panah",
     "stellarity.items.weapons.frigid_harvester.description.5": "The more souls it absorbs, the less damage it gets",
     "stellarity.advancements.electrified": "Electrified!",
-    "stellarity.advancements.electrified.description": "Dash through 5 different mobs with a single Copper Elektra Shield dash"
+    "stellarity.advancements.electrified.description": "Dash through 5 different mobs with a single Copper Elektra Shield dash",
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
 }
