@@ -518,5 +518,6 @@
     "stellarity.items.weapons.frigid_harvester.ability.echo": "Echo",
     "stellarity.items.weapons.frigid_harvester.ability.echo.description": "Attacks will echo, dealing extra unmitigated damage after a short time.",
     "stellarity.advancements.electrified": "Electrified!",
-    "stellarity.advancements.electrified.description": "Dash through 5 different mobs with a single Copper Elektra Shield dash"
+    "stellarity.advancements.electrified.description": "Dash through 5 different mobs with a single Copper Elektra Shield dash",
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
 }
