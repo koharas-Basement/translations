@@ -518,5 +518,6 @@
     "stellarity.items.weapons.frigid_harvester.description.5": "Càng hấp thụ nhiều linh hồn, lượng sát thương tăng thêm càng giảm",
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement": "Hoá giòn",
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement.description": "Kẻ địch trúng chiêu trở nên dễ vỡ và nhận thêm sát thương bỏng lạnh từ mọi nguồn",
-    "stellarity.advancements.electrified": "Điện hoá!"
+    "stellarity.advancements.electrified": "Điện hoá!",
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
 }
