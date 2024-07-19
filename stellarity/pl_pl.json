@@ -518,5 +518,6 @@
     "stellarity.items.armors.floral_armor.set_bonus.3": "Skradaj się w wysokich roślinach aby zyskać efekt niewidzialności",
     "stellarity.items.armors.floral_armor.piece_bonus.chestplate": "+25% szybkości strzał",
     "stellarity.items.armors.floral_armor.piece_bonus.leggings": "+10% obrażeń od strzał",
-    "stellarity.items.weapons.frigid_harvester.description.5": "Im więcej pochłania dusz, tym słabiej się ulepsza"
+    "stellarity.items.weapons.frigid_harvester.description.5": "Im więcej pochłania dusz, tym słabiej się ulepsza",
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
 }
