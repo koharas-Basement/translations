@@ -518,5 +518,6 @@
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement": "Embrittlement",
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement.description": "Hit enemies become brittle and take extra frostbite damage from all sources",
     "stellarity.items.weapons.frigid_harvester.ability.echo": "Echo",
-    "stellarity.items.weapons.frigid_harvester.ability.echo.description": "Attacks will echo, dealing extra unmitigated damage after a short time."
+    "stellarity.items.weapons.frigid_harvester.ability.echo.description": "Attacks will echo, dealing extra unmitigated damage after a short time.",
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
 }
