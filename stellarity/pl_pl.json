@@ -190,7 +190,7 @@
     "stellarity.items.trinkets.soaring_insignia.description.3": "Skradaj się i patrz w górę/dół aby dostosować wysokość",
     "stellarity.items.trinkets.copper_elektra_shield": "Miedziana Tarcza Elektry",
     "stellarity.items.trinkets.copper_elektra_shield.description.1": "Skradaj się, aby wykonać elektryzujący przeskok!",
-    "stellarity.items.trinkets.copper_elektra_shield.description.2": "Może naładować max 3 przeskoki, 1 na 7 sekund",
+    "stellarity.items.trinkets.copper_elektra_shield.description.2": "Może naładować max 3 przeskoki, 1 co 8 sekund",
     "stellarity.items.trinkets.copper_elektra_shield.description.3": "Trzeci przeskok ładuje się dłużej niż pozostałe",
     "stellarity.items.weapons.ancient_wooden_sword": "Starożytny Drewniany Miecz",
     "stellarity.items.weapons.ancient_wooden_sword.flavor_text": "'współczesne problemy wymagają średniowiecznych rozwiązań'",
@@ -519,5 +519,5 @@
     "stellarity.items.armors.floral_armor.piece_bonus.chestplate": "+25% szybkości strzał",
     "stellarity.items.armors.floral_armor.piece_bonus.leggings": "+10% obrażeń od strzał",
     "stellarity.items.weapons.frigid_harvester.description.5": "Im więcej pochłania dusz, tym słabiej się ulepsza",
-    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Przeskok przez moby tymczasowo zwiększa szybkość ładowania"
 }
