@@ -518,5 +518,6 @@
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement.description": "Os inimigos atingidos ficam frágeis e recebem dano extra de congelamento de todas as fontes",
     "stellarity.items.weapons.frigid_harvester.ability.echo": "Eco",
     "stellarity.advancements.electrified": "Eletrificado!",
-    "stellarity.advancements.electrified.description": "Passe através de 5 criaturas diferentes com um único impulso do escudo de cobre elétrico"
+    "stellarity.advancements.electrified.description": "Passe através de 5 criaturas diferentes com um único impulso do escudo de cobre elétrico",
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
 }
