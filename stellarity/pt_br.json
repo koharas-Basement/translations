@@ -190,7 +190,7 @@
     "stellarity.items.trinkets.soaring_insignia.description.3": "Agache e olhe para cima/baixo para ajustar a altura",
     "stellarity.items.trinkets.copper_elektra_shield": "Escudo de cobre elétrico",
     "stellarity.items.trinkets.copper_elektra_shield.description.1": "Agache-se para realizar um dash eletrificante!",
-    "stellarity.items.trinkets.copper_elektra_shield.description.2": "Pode carregar até 3 dashs a cada 7 segundos",
+    "stellarity.items.trinkets.copper_elektra_shield.description.2": "Pode carregar até 3 dashes a cada 8 segundos",
     "stellarity.items.trinkets.copper_elektra_shield.description.3": "O terceiro dash leva mais tempo para recarregar",
     "stellarity.items.weapons.ancient_wooden_sword": "Espada ancestral de madeira",
     "stellarity.items.weapons.ancient_wooden_sword.flavor_text": "'rejeite Trails&Tales, abrace Indev'",
@@ -519,5 +519,5 @@
     "stellarity.items.weapons.frigid_harvester.ability.echo": "Eco",
     "stellarity.advancements.electrified": "Eletrificado!",
     "stellarity.advancements.electrified.description": "Passe através de 5 criaturas diferentes com um único impulso do escudo de cobre elétrico",
-    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Passar através de criaturas reduz pela metade o tempo de recarga"
 }
