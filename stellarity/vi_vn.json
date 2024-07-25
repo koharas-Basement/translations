@@ -404,7 +404,7 @@
     "stellarity.items.spellbooks.conveyance.description.3": "Nghiêng đầu của bạn để điều hướng cho nó",
     "stellarity.items.perm_buffs.endurance_brew.increase": "tăng vĩnh viễn phòng ngự của bạn và giảm sát thương nhận vào",
     "stellarity.items.cursed_tome.description.1": "Chứa mọi thông tin về",
-    "stellarity.items.trinkets.copper_elektra_shield.description.2": "Có thể nạp lên tới 3 lần lướt mỗi 7 giây",
+    "stellarity.items.trinkets.copper_elektra_shield.description.2": "Có thể nạp lên tới 3 lần lướt mỗi 8 giây",
     "stellarity.items.spellbooks.light.description.1": "Nhấn Chuột phải để triệu hồi ra một vầng hào quang",
     "stellarity.items.weapons.prismatic_punch": "Nỏ lăng kính",
     "stellarity.aota.warning": "Ma thuật của nó đã bị phong ấn đằng sau một con quái vật hùng mạnh",
@@ -504,7 +504,7 @@
     "stellarity.items.armors.floral_armor.piece_bonus.leggings": "+10% Sát thương mũi tên",
     "stellarity.items.weapons.frigid_harvester.ability.echo": "Vang vọng",
     "stellarity.items.weapons.frigid_harvester.ability.echo.description": "Đòn tấn công sẽ dội lại, gây thêm một lượng sát thương chuẩn sau một khoảng thời gian ngắn.",
-    "stellarity.advancements.electrified.description": "Lướt quá 5 sinh vật khác nhau bằng khiên Elektra",
+    "stellarity.advancements.electrified.description": "Lướt quá 5 sinh vật khác nhau chỉ với một cú lướt bằng khiên đồng Elektra",
     "stellarity.items.armors.piece_bonus": "ᴋʜɪ ᴍᴀɴɢ:",
     "stellarity.items.armors.shulker_armor.piece_bonus.chestplate": "Miễn nhiễm với Suy yếu",
     "stellarity.items.armors.shulker_armor.piece_bonus.leggings": "Miễn nhiễm với Lơ lửng",
@@ -519,5 +519,5 @@
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement": "Hoá giòn",
     "stellarity.items.weapons.frigid_harvester.ability.embrittlement.description": "Kẻ địch trúng chiêu trở nên dễ vỡ và nhận thêm sát thương bỏng lạnh từ mọi nguồn",
     "stellarity.advancements.electrified": "Điện hoá!",
-    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Dashing through mobs halves recharge time"
+    "stellarity.items.trinkets.copper_elektra_shield.description.4": "Lướt xuyên qua sinh vật giúp giảm nửa thời gian nạp"
 }
