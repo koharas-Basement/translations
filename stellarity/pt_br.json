@@ -39,7 +39,7 @@
     "stellarity.config.enable_dragon_screenshake.description": "Habilita um efeito de tremer da tela durante a animação de geração do Dragão Ender. Pode causar náuseas em alguns, então sinta-se à vontade para desativá-lo. Não é recomendado desabilitar se não te causar náuseas.",
     "stellarity.config.enable_creative_shock.title": "Habilitar choque criativo na cidade do End",
     "stellarity.config.enable_creative_shock.description": "Faz com que os cristais do End gerados nas cidades do End apliquem choque criativo, o que impede colocar e a destruir blocos até que todos os cristais do End sejam destruídos. Lembre-se de que as cidades do End foram pensadas em torno dessa opção estar ativada!",
-    "stellarity.config.nerf_elytra.title": "Desvantagens no élitros",
+    "stellarity.config.nerf_elytra.title": "Desvantagens nos élitros",
     "stellarity.config.nerf_elytra.description": "Aplica desvantagens no élitros fazendo com que eles recebam dano extra ao usar fogos de artifício.",
     "stellarity.explorer_map.end_city": "Mapa de exploração da cidade do End",
     "stellarity.explorer_map.end_village": "Mapa da vila do End",
