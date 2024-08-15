@@ -234,7 +234,7 @@
     "biome.far_end.ashfall_delta": "Đồng bằng tro bụi",
     "stellarity.advancements.find_gloop.description": "Cứu một bé Kẹo dẻo khỏi thùng Pandora ở bất kì quần xã đầm lầy nào",
     "stellarity.items.perm_buffs.fury_berries.increase": "tăng vĩnh viễn tốc độ tấn công cận chiến của bạn",
-    "stellarity.messages.cmd.generate_end_island_features.fail": "Tất cả mọi thứ đã được tạo lập!",
+    "stellarity.messages.cmd.generate_end_island_features.fail": "Tất cả mọi thứ đã được tạo từ trước đó!",
     "stellarity.items.materials.upgrade": "Sử dụng để nâng cấp bộ giáp Netherit",
     "stellarity.config.always_generate_egg.description": "Luôn luôn tạo ra một quả Trứng rồng sau khi tiêu diệt rồng Ender. Nếu bị vô hiệu hoá, chỉ tạo ra duy nhất 1 quả Trứng rồng sau lần tiêu diệt đầu tiên.",
     "stellarity.advancements.night_sky_stalkers.description": "Giết một con Phantom. Chúng sẽ biến mất ngay khi bạn đi ngủ",
