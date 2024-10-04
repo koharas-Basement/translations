@@ -504,9 +504,9 @@
     "stellarity.items.frozen_carpaccio.usage": "Hiệu ứng tích cực ngẫu nhiên",
     "stellarity.items.materials.keys.gilded_purpur": "Chìa khóa Purpur mạ vàng",
     "stellarity.items.materials.keys.gilded_purpur.description": "Opens Ominous Vaults in End Cities",
-    "stellarity.items.materials.keys.purpur.description": "Opens Vaults in End Cities",
+    "stellarity.items.materials.keys.purpur.description": "Sử dụng để mở Hòm báu vật tại Thành phố End",
     "stellarity.items.materials.keys.winged": "Chì khoá có cánh",
-    "stellarity.items.materials.keys.winged.description": "Opens the Elytra Vault on End Ships",
+    "stellarity.items.materials.keys.winged.description": "Sử dụng để mở Hòm cánh cứng trên Con thuyền End",
     "stellarity.items.materials.sand_rune": "Tàn tích Cát",
     "stellarity.items.materials.starlight_soot": "Bồ hóng Ánh sao",
     "stellarity.items.materials.starlight_soot.flavor_text": "'Có thể chứa Tiểu Tiên'",
@@ -532,6 +532,6 @@
     "stellarity.items.trinkets.void_locket": "Dây chuyền Hư vô",
     "stellarity.items.weapons.cassandras_prophecy": "Lời tiên tri của Cassandra",
     "stellarity.items.weapons.cassandras_prophecy.description": "Các đòn tấn công tạo ra thêm các nhát chém",
-    "stellarity.music_disc.requires_addon": "ʀᴇᴏ̨ᴜɪʀᴇs ᴍᴜsɪᴄ ᴀᴅᴅᴏɴ",
+    "stellarity.music_disc.requires_addon": "ᴄầɴ ɢóɪ âᴍ ɴʜạᴄ ᴍở ʀộɴɢ",
     "attribute.name.player.block_interaction_range": "Tầm đặt block"
 }
