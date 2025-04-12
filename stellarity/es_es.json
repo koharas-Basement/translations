@@ -486,5 +486,11 @@
     "stellarity.items.porta_altar.description.1": "Right click on the ground to draw a sigil that",
     "stellarity.items.porta_altar.description.2": "allows you to access Altar of The Accursed",
     "stellarity.items.porta_altar.description.3": "from anywhere in the world",
-    "stellarity.items.porta_altar.description.4": "Place in a vertical item frame attached"
+    "stellarity.items.porta_altar.description.4": "Place in a vertical item frame attached",
+    "stellarity.items.armors.champion_armor.boots": "Champion Boots",
+    "stellarity.items.armors.champion_armor.helmet": "Champion Helmet",
+    "stellarity.items.armors.champion_armor.leggings": "Champion Leggings",
+    "stellarity.items.armors.champion_armor.set_bonus.1": "Fills you with Wrath of The Dragon,",
+    "stellarity.items.armors.champion_armor.set_bonus.2": "providing ramping increasing damage",
+    "stellarity.items.armors.champion_armor.set_bonus.3": "on combo attacks!"
 }
