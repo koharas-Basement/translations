@@ -486,5 +486,11 @@
     "stellarity.advancements.harvester.gain_damage.description": "Kill any mob to slightly upgrade a Harvester",
     "stellarity.items.food.fish.goosh.flavor_text": "'Yuck...'",
     "stellarity.items.harvester.ability": "Ability",
-    "stellarity.items.porta_altar.description.5": "to create your own permanent copy of the Altar"
+    "stellarity.items.porta_altar.description.5": "to create your own permanent copy of the Altar",
+    "stellarity.items.armors.champion_armor.boots": "Champion Boots",
+    "stellarity.items.armors.champion_armor.helmet": "Champion Helmet",
+    "stellarity.items.armors.champion_armor.leggings": "Champion Leggings",
+    "stellarity.items.armors.champion_armor.set_bonus.1": "Fills you with Wrath of The Dragon,",
+    "stellarity.items.armors.champion_armor.set_bonus.2": "providing ramping increasing damage",
+    "stellarity.items.armors.champion_armor.set_bonus.3": "on combo attacks!"
 }
