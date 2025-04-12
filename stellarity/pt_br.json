@@ -486,5 +486,11 @@
     "stellarity.items.harvester.ability": "Ability",
     "stellarity.items.harvester.ability.anima_conduit": "Anima Conduit",
     "stellarity.items.materials.chorus_petal": "Chorus Petal",
-    "stellarity.items.materials.chorus_petal.flavor_text": "'Soft and delicate'"
+    "stellarity.items.materials.chorus_petal.flavor_text": "'Soft and delicate'",
+    "stellarity.items.armors.champion_armor.boots": "Champion Boots",
+    "stellarity.items.armors.champion_armor.helmet": "Champion Helmet",
+    "stellarity.items.armors.champion_armor.leggings": "Champion Leggings",
+    "stellarity.items.armors.champion_armor.set_bonus.1": "Fills you with Wrath of The Dragon,",
+    "stellarity.items.armors.champion_armor.set_bonus.2": "providing ramping increasing damage",
+    "stellarity.items.armors.champion_armor.set_bonus.3": "on combo attacks!"
 }
