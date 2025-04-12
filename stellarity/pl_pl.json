@@ -486,5 +486,11 @@
     "stellarity.advancements.harvester.abilities.embrittlement.description": "Hit mobs take extra damage from all sources for some time",
     "stellarity.advancements.harvester.abilities.frost_barrier": "Ability - Frost Barrier",
     "stellarity.items.armors.champion_armor.chestplate": "Chorus Champion Chestplate",
-    "stellarity.items.trinkets.decayed_clover.description.2": "Increases Void Fishing luck"
+    "stellarity.items.trinkets.decayed_clover.description.2": "Increases Void Fishing luck",
+    "stellarity.items.armors.champion_armor.set_bonus.2": "providing ramping increasing damage",
+    "stellarity.items.armors.champion_armor.boots": "Champion Boots",
+    "stellarity.items.armors.champion_armor.helmet": "Champion Helmet",
+    "stellarity.items.armors.champion_armor.leggings": "Champion Leggings",
+    "stellarity.items.armors.champion_armor.set_bonus.1": "Fills you with Wrath of The Dragon,",
+    "stellarity.items.armors.champion_armor.set_bonus.3": "on combo attacks!"
 }
