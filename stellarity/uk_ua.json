@@ -486,5 +486,11 @@
     "stellarity.items.trinkets.decayed_clover": "Decayed Clover",
     "stellarity.items.trinkets.decayed_clover.description.1": "Increases loot quality",
     "stellarity.items.trinkets.decayed_clover.description.2": "Increases Void Fishing luck",
-    "stellarity.items.weapons.harvester": "Harvester"
+    "stellarity.items.weapons.harvester": "Harvester",
+    "stellarity.items.armors.champion_armor.leggings": "Champion Leggings",
+    "stellarity.items.armors.champion_armor.boots": "Champion Boots",
+    "stellarity.items.armors.champion_armor.helmet": "Champion Helmet",
+    "stellarity.items.armors.champion_armor.set_bonus.1": "Fills you with Wrath of The Dragon,",
+    "stellarity.items.armors.champion_armor.set_bonus.2": "providing ramping increasing damage",
+    "stellarity.items.armors.champion_armor.set_bonus.3": "on combo attacks!"
 }
