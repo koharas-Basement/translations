@@ -486,5 +486,11 @@
     "stellarity.items.weapons.harvester": "Harvester",
     "stellarity.items.weapons.harvester.description.1": "Absorbs souls of slain mobs and permanently",
     "stellarity.items.weapons.harvester.description.2": "increases its size and damage",
-    "stellarity.items.weapons.harvester.description.3": "Certains souls imbue it with magical abilities"
+    "stellarity.items.weapons.harvester.description.3": "Certains souls imbue it with magical abilities",
+    "stellarity.items.armors.champion_armor.set_bonus.1": "Fills you with Wrath of The Dragon,",
+    "stellarity.items.armors.champion_armor.boots": "Champion Boots",
+    "stellarity.items.armors.champion_armor.helmet": "Champion Helmet",
+    "stellarity.items.armors.champion_armor.leggings": "Champion Leggings",
+    "stellarity.items.armors.champion_armor.set_bonus.2": "providing ramping increasing damage",
+    "stellarity.items.armors.champion_armor.set_bonus.3": "on combo attacks!"
 }
