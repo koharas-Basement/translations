@@ -553,5 +553,8 @@
     "stellarity.pack_mcmeta.rp": "Opcjonalne zasoby używane przez Stellarity",
     "stellarity.pack_mcmeta.rp.music": "Dodatek zawierający muzykę do Stellarity",
     "stellarity.void_fishing.warning.dragons_den": "Żadna z ryb nie jest na tyle odważna aby tutaj pływać...",
-    "stellarity.void_fishing.warning.too_deep": "Coś ci podpowiada, że musisz łowić wyżej..."
+    "stellarity.void_fishing.warning.too_deep": "Coś ci podpowiada, że musisz łowić wyżej...",
+    "stellarity.items.weapons.harvester.ability.piercing_cold": "Piercing Cold",
+    "stellarity.items.weapons.harvester.ability.arctic_wind": "Arctic Wind",
+    "stellarity.items.weapons.harvester.ability.frost_barrier": "Frost Barrier"
 }
