@@ -553,5 +553,8 @@
     "stellarity.pack_mcmeta.rp": "Stellarity mod任意リソースパック",
     "stellarity.pack_mcmeta.rp.music": "Stellarity mod 音楽追加アドオン",
     "stellarity.void_fishing.warning.dragons_den": "この場所に魚は入ってこないようだ…",
-    "stellarity.void_fishing.warning.too_deep": "もっと高いところで釣りをするべきだと何かが言っています..."
+    "stellarity.void_fishing.warning.too_deep": "もっと高いところで釣りをするべきだと何かが言っています...",
+    "stellarity.items.weapons.harvester.ability.piercing_cold": "Piercing Cold",
+    "stellarity.items.weapons.harvester.ability.arctic_wind": "Arctic Wind",
+    "stellarity.items.weapons.harvester.ability.frost_barrier": "Frost Barrier"
 }
