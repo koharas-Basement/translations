@@ -564,5 +564,7 @@
     "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
     "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
     "stellarity.void_fishing.warning.dragons_den": "Tidak ada ikan yang berani untuk memasuki area ini…",
-    "stellarity.void_fishing.warning.too_deep": "Sesuatu menyarankan kamu untuk memancing di tempat yang lebih tinggi…"
+    "stellarity.void_fishing.warning.too_deep": "Sesuatu menyarankan kamu untuk memancing di tempat yang lebih tinggi…",
+    "item.stellarity.amarenecription.5": "to create your own permanent copy of the Altar",
+    "stellarity.items.potions.amarena.flavor_text": "'forbidden juice'"
 }
