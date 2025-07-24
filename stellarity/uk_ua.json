@@ -381,7 +381,7 @@
   "stellarity.items.porta_altar.description.2": "allows you to access Altar of The Accursed",
   "stellarity.items.porta_altar.description.3": "from anywhere in the world",
   "stellarity.items.porta_altar.description.4": "Place in a vertical item frame attached",
-  "stellarity.items.potions.amarena.flavor_text": "'жаданий терпкий сік'",
+  "item.stellarity.amarene.flavor_text": "'жаданий терпкий сік'",
   "stellarity.items.potions.blind_rage_potion": "Еліксир сліпої люті",
   "stellarity.items.potions.endurance_potion": "Еліксир витривалості",
   "stellarity.items.potions.entanglement_potion": "Entanglement Potion",

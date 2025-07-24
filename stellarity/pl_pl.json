@@ -381,7 +381,7 @@
   "item.stellarity.amarenecription.5": "to create your own permanent copy of the Altar",
   "item.stellarity.amarene": "Amarena",
   "item.stellarity.amarene.description": "Wygląda jak wino, ale tak naprawdę nim nie jest",
-  "stellarity.items.potions.amarena.flavor_text": "'zakazany sok'",
+  "item.stellarity.amarene.flavor_text": "'zakazany sok'",
   "stellarity.items.potions.blind_rage_potion": "Mikstura Ślepej Furii",
   "stellarity.items.potions.endurance_potion": "Mikstura Wytrzymałości",
   "stellarity.items.potions.entanglement_potion": "Mikstura Splątania",

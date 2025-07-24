@@ -381,7 +381,7 @@
   "item.stellarity.amarenecription.5": "to create your own permanent copy of the Altar",
   "item.stellarity.amarene": "Amarene",
   "item.stellarity.amarene.description": "Looks like wine, but it really isn't",
-  "stellarity.items.potions.amarena.flavor_text": "'forbidden juice'",
+  "item.stellarity.amarene.flavor_text": "'forbidden juice'",
   "stellarity.items.potions.blind_rage_potion": "Blind Rage Potion",
   "stellarity.items.potions.endurance_potion": "Endurance Potion",
   "stellarity.items.potions.entanglement_potion": "Entanglement Potion",

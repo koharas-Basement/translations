@@ -381,7 +381,7 @@
   "item.stellarity.amarenecription.5": "to create your own permanent copy of the Altar",
   "item.stellarity.amarene": "Амарена",
   "item.stellarity.amarene.description": "Похоже на вино, однако всё же не оно",
-  "stellarity.items.potions.amarena.flavor_text": "'Запретный сок'",
+  "item.stellarity.amarene.flavor_text": "'Запретный сок'",
   "stellarity.items.potions.blind_rage_potion": "Зелье слепого гнева",
   "stellarity.items.potions.endurance_potion": "Зелье сопротивления",
   "stellarity.items.potions.entanglement_potion": "Зелье запутанности",
