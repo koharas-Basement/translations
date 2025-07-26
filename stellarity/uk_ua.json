@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Chorus Dagger recharges",
-  "Elektra Shield recharges": "Elektra Shield recharges",
-  "Enderman attacks": "Ендермен атакує",
-  "Endermite attacks": "Ендерміт атакує",
-  "Kaleidoscope charges": "Kaleidoscope charges",
-  "Living Flesh hurts": "Living Flesh hurts",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Непохитна відданість",
   "advancements.stellarity.absolute_devotion.description": "Покращте незеритову мотику до шалкерової. Ви справді псих…",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Вхідна шкода знижена в оточенні ворогів",
   "items.stellarity.spellbooks.cooldown": "Перезарядка: %s секунд",
   "items.stellarity.spellbooks.cooldown_long": "Cooldown: %s minutes",
+  "message.stellarity.aota_locked": "Сила вівтаря запечатана і спочатку має бути вивільнена",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "Не застосовуйте цю команду",
-  "stellarity.aota.warning": "Сила вівтаря запечатана і спочатку має бути вивільнена",
   "stellarity.boss.dragon.death": "%s пав!",
   "stellarity.boss.dragon.spawn": "%s пробудився од сну!",
   "stellarity.boss.eol.death": "%s пала!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Жодна риба не посміє підплисти сюди…",
-  "stellarity.void_fishing.warning.too_deep": "Щось вам підказує, що рибалити треба трохи вище…"
+  "stellarity.void_fishing.warning.too_deep": "Щось вам підказує, що рибалити треба трохи вище…",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Kaleidoscope charges",
+  "subtitles.stellarity.entity.enderman.attack": "Ендермен атакує",
+  "subtitles.stellarity.entity.endermite.attack": "Ендерміт атакує",
+  "subtitles.stellarity.item.living_flesh.boost": "Living Flesh hurts"
 }

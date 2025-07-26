@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Pugnale Chorus ricarica",
-  "Elektra Shield recharges": "Scudo Elektra ricarica",
-  "Enderman attacks": "Enderman attacca",
-  "Endermite attacks": "Endermite attacca",
-  "Kaleidoscope charges": "Kaleidoscopio si carica",
-  "Living Flesh hurts": "Carne Vivente soffre",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Devozione Assoluta",
   "advancements.stellarity.absolute_devotion.description": "Migliora la tua zappa di netherite con una in Shulker, se sei abbastanza folle...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Subisci meno danni quando sei circondato da uno sciame",
   "items.stellarity.spellbooks.cooldown": "Cooldown: %s secondi",
   "items.stellarity.spellbooks.cooldown_long": "Cooldown: %s minuti",
+  "message.stellarity.aota_locked": "La sua magia è imprigionata da una potente bestia",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "Non usare questo comando",
-  "stellarity.aota.warning": "La sua magia è imprigionata da una potente bestia",
   "stellarity.boss.dragon.death": "%s è stato sconfitto!",
   "stellarity.boss.dragon.spawn": "%s si è risvegliato!",
   "stellarity.boss.eol.death": "%s è stato sconfitto!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Nessun pesce osa addentrarsi in quest'area...",
-  "stellarity.void_fishing.warning.too_deep": "Qualcosa ti dice di pescare più in alto..."
+  "stellarity.void_fishing.warning.too_deep": "Qualcosa ti dice di pescare più in alto...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Kaleidoscopio si carica",
+  "subtitles.stellarity.entity.enderman.attack": "Enderman attacca",
+  "subtitles.stellarity.entity.endermite.attack": "Endermite attacca",
+  "subtitles.stellarity.item.living_flesh.boost": "Carne Vivente soffre"
 }

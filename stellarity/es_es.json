@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Chorus Dagger recharges",
-  "Elektra Shield recharges": "Elektra Shield recharges",
-  "Enderman attacks": "Enderman attacks",
-  "Endermite attacks": "Endermite attacks",
-  "Kaleidoscope charges": "Kaleidoscope charges",
-  "Living Flesh hurts": "Living Flesh hurts",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Absolute Devotion",
   "advancements.stellarity.absolute_devotion.description": "Upgrade your Netherite Hoe to its Shulker version. At this point, it's just pure madness...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Recibe menos daño cuando te atacan",
   "items.stellarity.spellbooks.cooldown": "Tiempo de espera: %s segundos",
   "items.stellarity.spellbooks.cooldown_long": "Tiempo de espera: %s minutos",
+  "message.stellarity.aota_locked": "Su magia está sellada detrás de una poderosa bestia",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "No uses este comando",
-  "stellarity.aota.warning": "Su magia está sellada detrás de una poderosa bestia",
   "stellarity.boss.dragon.death": "%s ha sido derrotado!",
   "stellarity.boss.dragon.spawn": "%s se despertó!",
   "stellarity.boss.eol.death": "%s ha sido derrotada!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Ningún pez se atreve a entrar en esta área...",
-  "stellarity.void_fishing.warning.too_deep": "Algo te dice que deberías pescar más arriba..."
+  "stellarity.void_fishing.warning.too_deep": "Algo te dice que deberías pescar más arriba...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Kaleidoscope charges",
+  "subtitles.stellarity.entity.enderman.attack": "Enderman attacks",
+  "subtitles.stellarity.entity.endermite.attack": "Endermite attacks",
+  "subtitles.stellarity.item.living_flesh.boost": "Living Flesh hurts"
 }

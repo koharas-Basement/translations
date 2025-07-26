@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Daga Chorus se recarga",
-  "Elektra Shield recharges": "Escudo Elektra se recarga",
-  "Enderman attacks": "Enderman ataca",
-  "Endermite attacks": "Endermite ataca",
-  "Kaleidoscope charges": "Caleidoscopio se carga",
-  "Living Flesh hurts": "Carne Viviente se lastima",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Devoción Absoluta",
   "advancements.stellarity.absolute_devotion.description": "Mejora tu Azada de Netherita a su versión Shulker. A estas alturas, es pura avaricia...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Recibe menos daño cuando te rodean",
   "items.stellarity.spellbooks.cooldown": "Tiempo de espera: %s segundos",
   "items.stellarity.spellbooks.cooldown_long": "Tiempo de espera: %s minutos",
+  "message.stellarity.aota_locked": "Su magia esta sellada detrás de una poderosa bestia",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "No uses este comando",
-  "stellarity.aota.warning": "Su magia esta sellada detrás de una poderosa bestia",
   "stellarity.boss.dragon.death": "%s ha sido derrotado!",
   "stellarity.boss.dragon.spawn": "%s ha despertado!",
   "stellarity.boss.eol.death": "%s ha sido derrotada!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Ningún pez se atreve a entrar a esta área...",
-  "stellarity.void_fishing.warning.too_deep": "Algo te dice que deberías pescar más arriba..."
+  "stellarity.void_fishing.warning.too_deep": "Algo te dice que deberías pescar más arriba...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Caleidoscopio se carga",
+  "subtitles.stellarity.entity.enderman.attack": "Enderman ataca",
+  "subtitles.stellarity.entity.endermite.attack": "Endermite ataca",
+  "subtitles.stellarity.item.living_flesh.boost": "Carne Viviente se lastima"
 }

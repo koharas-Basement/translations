@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Chorus Dagger recharges",
-  "Elektra Shield recharges": "Elektra Shield recharges",
-  "Enderman attacks": "Enderman attacks",
-  "Endermite attacks": "Endermite attacks",
-  "Kaleidoscope charges": "Kaleidoscope charges",
-  "Living Flesh hurts": "Living Flesh hurts",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Absolute Devotion",
   "advancements.stellarity.absolute_devotion.description": "네더라이트 괭이를 셜커 괭이로 업그레이드하세요. 이 시점에서는, 그냥 순수 광기인 듯 합니다...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "여러명의 적에게 둘러싸였을 때 받는 피해가 감소합니다",
   "items.stellarity.spellbooks.cooldown": "쿨타임: %s초",
   "items.stellarity.spellbooks.cooldown_long": "쿨타임: %s분",
+  "message.stellarity.aota_locked": "이 마법은 강력한 짐승 뒤에 봉인되어 있는 듯 하다",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "이 명령어를 사용하지 마세요",
-  "stellarity.aota.warning": "이 마법은 강력한 짐승 뒤에 봉인되어 있는 듯 하다",
   "stellarity.boss.dragon.death": "%s이 쓰러졌다!",
   "stellarity.boss.dragon.spawn": "%s이 깨어났다!",
   "stellarity.boss.eol.death": "%s이 쓰러졌다!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "이곳에는 어떤 물고기도 감히 들어오지 못할 것 같다...",
-  "stellarity.void_fishing.warning.too_deep": "무언가 당신에게 더 높은 곳에서 낚시하라고 말한다..."
+  "stellarity.void_fishing.warning.too_deep": "무언가 당신에게 더 높은 곳에서 낚시하라고 말한다...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Kaleidoscope charges",
+  "subtitles.stellarity.entity.enderman.attack": "Enderman attacks",
+  "subtitles.stellarity.entity.endermite.attack": "Endermite attacks",
+  "subtitles.stellarity.item.living_flesh.boost": "Living Flesh hurts"
 }

@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Ładowanie Sztyletu Refrenusu",
-  "Elektra Shield recharges": "Tarcza Elektry ładuje się",
-  "Enderman attacks": "Ataki Endermana",
-  "Endermite attacks": "Ataki Endermita",
-  "Kaleidoscope charges": "Ładowanie Kalejdoskopu",
-  "Living Flesh hurts": "Żywe mięso boli",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Absolutne Poświęcenie",
   "advancements.stellarity.absolute_devotion.description": "Ulepsz swoją Netherytową motykę do wersji Shulkera. W tym momencie to po prostu czyste szaleństwo...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Otrzymujesz mniej obrażeń kiedy jesteś otoczony przez potwory",
   "items.stellarity.spellbooks.cooldown": "Czas odnowienia: %s sekund",
   "items.stellarity.spellbooks.cooldown_long": "Czas odnowienia: %s minut",
+  "message.stellarity.aota_locked": "Ołtarz jest zapieczętowany przez potężną bestie",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "Nie używaj tej komendy",
-  "stellarity.aota.warning": "Ołtarz jest zapieczętowany przez potężną bestie",
   "stellarity.boss.dragon.death": "%s został pokonany!",
   "stellarity.boss.dragon.spawn": "%s został przywołany!",
   "stellarity.boss.eol.death": "%s została pokonana!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Żadna z ryb nie jest na tyle odważna aby tutaj pływać...",
-  "stellarity.void_fishing.warning.too_deep": "Coś ci podpowiada, że musisz łowić wyżej..."
+  "stellarity.void_fishing.warning.too_deep": "Coś ci podpowiada, że musisz łowić wyżej...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Ładowanie Kalejdoskopu",
+  "subtitles.stellarity.entity.enderman.attack": "Ataki Endermana",
+  "subtitles.stellarity.entity.endermite.attack": "Ataki Endermita",
+  "subtitles.stellarity.item.living_flesh.boost": "Żywe mięso boli"
 }

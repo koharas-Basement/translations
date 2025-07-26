@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Pisau Chorus mengecas",
-  "Elektra Shield recharges": "Perisai Listrika mengecas",
-  "Enderman attacks": "serangan Enderman",
-  "Endermite attacks": "serangan Endermite",
-  "Kaleidoscope charges": "Kaleidoskop mengecas",
-  "Living Flesh hurts": "Daging Hidup menyakiti",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Pengabdian Mutlak",
   "advancements.stellarity.absolute_devotion.description": "Upgrade Cangkul Netherite-mu menjadi versi Shulkernya. Apakah anda bego? Kenapa kamu melakukan ini?",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Mengurangi damage yang didapatkan saat diserbu",
   "items.stellarity.spellbooks.cooldown": "Cooldown: %s detik",
   "items.stellarity.spellbooks.cooldown_long": "Cooldown: %s menit",
+  "message.stellarity.aota_locked": "Sihirnya disembunyikan oleh sebuah makhluk yang kuat",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "Jangan pake command ini",
-  "stellarity.aota.warning": "Sihirnya disembunyikan oleh sebuah makhluk yang kuat",
   "stellarity.boss.dragon.death": "%s telah dikalahkan!",
   "stellarity.boss.dragon.spawn": "%s telah bangun!",
   "stellarity.boss.eol.death": "%s telah dikalahkan!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Tidak ada ikan yang berani untuk memasuki area ini…",
-  "stellarity.void_fishing.warning.too_deep": "Sesuatu menyarankan kamu untuk memancing di tempat yang lebih tinggi…"
+  "stellarity.void_fishing.warning.too_deep": "Sesuatu menyarankan kamu untuk memancing di tempat yang lebih tinggi…",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Kaleidoskop mengecas",
+  "subtitles.stellarity.entity.enderman.attack": "serangan Enderman",
+  "subtitles.stellarity.entity.endermite.attack": "serangan Endermite",
+  "subtitles.stellarity.item.living_flesh.boost": "Daging Hidup menyakiti"
 }

@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Chorusdolch lädt nach",
-  "Elektra Shield recharges": "Elektra Schild lädt nach",
-  "Enderman attacks": "Enderman attackiert",
-  "Endermite attacks": "Endermilbe attackiert",
-  "Kaleidoscope charges": "Kaleidoskop lädt auf",
-  "Living Flesh hurts": "Lebendes Fleisch schmerzt",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Absolute Hingabe",
   "advancements.stellarity.absolute_devotion.description": "Rüste deine Netherit Hacke auf die Shulker-Version auf. An diesem Punkt ist es einfach purer Wahnsinn ...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Erleide weniger Schaden, wenn du umzingelt wirst",
   "items.stellarity.spellbooks.cooldown": "Cooldown: %s Sekunden",
   "items.stellarity.spellbooks.cooldown_long": "Cooldown: %s Minuten",
+  "message.stellarity.aota_locked": "Seine Magie ist hinter einem starken Beast verschlossen",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "Benutze diesen Befehl nicht",
-  "stellarity.aota.warning": "Seine Magie ist hinter einem starken Beast verschlossen",
   "stellarity.boss.dragon.death": "%s wurde besiegt!",
   "stellarity.boss.dragon.spawn": "%s ist erwacht!",
   "stellarity.boss.eol.death": "%s wurde besiegt!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Kein Fisch traut sich in diese Umgebung…",
-  "stellarity.void_fishing.warning.too_deep": "Etwas sagt dir, dass du höher Fischen solltest…"
+  "stellarity.void_fishing.warning.too_deep": "Etwas sagt dir, dass du höher Fischen solltest…",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Kaleidoskop lädt auf",
+  "subtitles.stellarity.entity.enderman.attack": "Enderman attackiert",
+  "subtitles.stellarity.entity.endermite.attack": "Endermilbe attackiert",
+  "subtitles.stellarity.item.living_flesh.boost": "Lebendes Fleisch schmerzt"
 }

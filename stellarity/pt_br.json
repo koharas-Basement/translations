@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Adaga do coro carrega",
-  "Elektra Shield recharges": "Escudo elétrico de cobre carrega",
-  "Enderman attacks": "Enderman atacou",
-  "Endermite attacks": "Endermite atacou",
-  "Kaleidoscope charges": "Caleidoscópio carrega",
-  "Living Flesh hurts": "Carne viva ferida",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Devoção absoluta",
   "advancements.stellarity.absolute_devotion.description": "Melhore uma Enxada de Netherita para de Shulker. Neste ponto, é pura loucura...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Receba menos dano quando cercado",
   "items.stellarity.spellbooks.cooldown": "Tempo de espera: %s segundos",
   "items.stellarity.spellbooks.cooldown_long": "Tempo de espera: %s minuto",
+  "message.stellarity.aota_locked": "Sua magia está selada por uma fera poderosa",
   "message.stellarity.spellbook_ready": "O livro está pronto.",
   "stellarity.advancement_grant_everything": "Não use este comando",
-  "stellarity.aota.warning": "Sua magia está selada por uma fera poderosa",
   "stellarity.boss.dragon.death": "%s foi derrotado!",
   "stellarity.boss.dragon.spawn": "%s despertou!",
   "stellarity.boss.eol.death": "%s foi derrotada!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Martelo fofo da justiça lança",
   "stellarity.void_fishing.warning.dragons_den": "Nenhum peixe ousa entrar neste recinto...",
-  "stellarity.void_fishing.warning.too_deep": "Você pressente que deveria pescar em um lugar mais alto..."
+  "stellarity.void_fishing.warning.too_deep": "Você pressente que deveria pescar em um lugar mais alto...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Caleidoscópio carrega",
+  "subtitles.stellarity.entity.enderman.attack": "Enderman atacou",
+  "subtitles.stellarity.entity.endermite.attack": "Endermite atacou",
+  "subtitles.stellarity.item.living_flesh.boost": "Carne viva ferida"
 }

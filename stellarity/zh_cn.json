@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "紫颂匕首蓄力",
-  "Elektra Shield recharges": "能量盾充能",
-  "Enderman attacks": "末影人攻击",
-  "Endermite attacks": "末影螨攻击",
-  "Kaleidoscope charges": "炽金狂斧蓄力",
-  "Living Flesh hurts": "生肌犹痛",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "绝对奉献",
   "advancements.stellarity.absolute_devotion.description": "将你的下界合金锄升级到其潜影版本。你真是疯了...",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "靠近时受到更少伤害",
   "items.stellarity.spellbooks.cooldown": "冷却时间：%s 秒",
   "items.stellarity.spellbooks.cooldown_long": "冷却时间：%s 分钟",
+  "message.stellarity.aota_locked": "它的魔力被一只强大的野兽封印着",
   "message.stellarity.spellbook_ready": "冷却结束。",
   "stellarity.advancement_grant_everything": "请勿使用此命令",
-  "stellarity.aota.warning": "它的魔力被一只强大的野兽封印着",
   "stellarity.boss.dragon.death": "%s 已被击败！",
   "stellarity.boss.dragon.spawn": "%s 已苏醒！",
   "stellarity.boss.eol.death": "%s 已被击败！",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "毛绒绒锤子返回",
   "stellarity.subtitles.item.fluffy_hammer.throw": "毛绒绒锤子丢出",
   "stellarity.void_fishing.warning.dragons_den": "没有鱼敢进入这个区域...",
-  "stellarity.void_fishing.warning.too_deep": "直觉告诉你，你应该钓得更高一点..."
+  "stellarity.void_fishing.warning.too_deep": "直觉告诉你，你应该钓得更高一点...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "炽金狂斧蓄力",
+  "subtitles.stellarity.entity.enderman.attack": "末影人攻击",
+  "subtitles.stellarity.entity.endermite.attack": "末影螨攻击",
+  "subtitles.stellarity.item.living_flesh.boost": "生肌犹痛"
 }

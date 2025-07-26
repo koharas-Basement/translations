@@ -1,10 +1,4 @@
 {
-  "Chorus Dagger recharges": "Хорус-кортик заряжен",
-  "Elektra Shield recharges": "Электрощит заряжен",
-  "Enderman attacks": "Эндермен атакует",
-  "Endermite attacks": "Эндермит атакует",
-  "Kaleidoscope charges": "Калейдоскоп заряжен",
-  "Living Flesh hurts": "Живая плоть изнывает",
   "Stellarity": "Stellarity",
   "advancements.stellarity.absolute_devotion": "Непоколебимая преданность",
   "advancements.stellarity.absolute_devotion.description": "Улучшите мотыгу до шалкеровой версии. Я уже говорил тебе, что такое безумие?",
@@ -482,9 +476,9 @@
   "items.stellarity.shulker_armor.bonus.2": "Входящий урон уменьшен в окружении врагов",
   "items.stellarity.spellbooks.cooldown": "Перезарядка: %s секунд",
   "items.stellarity.spellbooks.cooldown_long": "Перезарядка: %s минут",
+  "message.stellarity.aota_locked": "Его магия запечатана могущественным зверем",
   "message.stellarity.spellbook_ready": "message.stellarity.spellbook_ready",
   "stellarity.advancement_grant_everything": "Эту команду не трогать!",
-  "stellarity.aota.warning": "Его магия запечатана могущественным зверем",
   "stellarity.boss.dragon.death": "%s был побеждён!",
   "stellarity.boss.dragon.spawn": "%s пробудился!",
   "stellarity.boss.eol.death": "%s была побеждена!",
@@ -566,5 +560,9 @@
   "stellarity.subtitles.item.fluffy_hammer.return": "Fluffy Hammer returns",
   "stellarity.subtitles.item.fluffy_hammer.throw": "Fluffy Hammer throws",
   "stellarity.void_fishing.warning.dragons_den": "Ни одна рыбёшка не посмеет подплыть к этому месту...",
-  "stellarity.void_fishing.warning.too_deep": "Что-то подсказывает вам, что стоит рыбачить повыше..."
+  "stellarity.void_fishing.warning.too_deep": "Что-то подсказывает вам, что стоит рыбачить повыше...",
+  "subtitiles.stellarity.item.kaleidoscope.ready": "Калейдоскоп заряжен",
+  "subtitles.stellarity.entity.enderman.attack": "Эндермен атакует",
+  "subtitles.stellarity.entity.endermite.attack": "Эндермит атакует",
+  "subtitles.stellarity.item.living_flesh.boost": "Живая плоть изнывает"
 }
