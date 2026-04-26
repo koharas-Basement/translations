@@ -286,7 +286,7 @@
 	"item.stellarity.champion_chestplate": "Corazza del campione",
 	"item.stellarity.champion_helmet": "Elmo del campione",
 	"item.stellarity.champion_leggings": "Gambiere del campione",
-	"item.stellarity.chorus_juice": "Succo chorus",
+	"item.minecraft.potion.effect.stellarity.chorus_juice": "Succo chorus",
 	"item.stellarity.chorus_petal": "Petalo chorus",
 	"item.stellarity.chorus_petal.flavor_text": "'Soffice e delicato'",
 	"item.stellarity.chorus_pie": "Torta chorus",
