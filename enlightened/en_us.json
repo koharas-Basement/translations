@@ -700,5 +700,8 @@
 	"tag.item.stellarity.enchantable.elytra": "Stellarity Elytra Enchantables",
 	"tag.item.stellarity.enchantable.ranged": "Stellarity Ranged Weapon Enchantables",
 	"tag.item.stellarity.fishes": "Stellarity Fishes",
-	"tag.item.stellarity.repairs_champion_armor": "Repairs Champion Armor"
+	"tag.item.stellarity.repairs_champion_armor": "Repairs Champion Armor",
+	"tag.item.stellarity.repairs_floral_armor": "Repairs Floral Armor",
+	"tag.item.stellarity.repairs_hallowed_armor": "Repairs Hallowed Armor",
+	"tag.item.stellarity.repairs_shulker_armor": "Repairs Shulker Armor"
 }
